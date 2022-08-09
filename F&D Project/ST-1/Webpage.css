@@ -1,0 +1,66 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#Head{
+    background-color:turquoise;
+    height: 150px;
+    width: 100%;
+    font-size: 30px;
+    text-align: center;
+    padding-top:50px;
+    color:black
+}
+#Main{
+    height: 170px;
+    width: 100%;
+    font-size: 30px;
+    text-align: center;
+    padding: 60px;
+    padding-left: 40px;
+    color: royalblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#Con{
+    height: 230px;
+    width: 100%;
+    background-color: turquoise;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.Box{
+    height: 60%;
+    width: 150px;
+    margin: 10px;
+    padding-left: 30px;
+}
+#Box1{
+    background-color: violet;
+}
+#Box2{
+    background-color:beige;
+    border:15px solid lightseagreen;
+
+}
+#Box3{
+    background-color: cornflowerblue;
+    padding-top: 50px;
+    padding-left: 40px;
+
+}
+.Last{
+    height: 170px;
+    width: 100%;
+    border: 6px solid blue;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(221, 201, 201, 0.675);
+    padding-left: 50%;
+    padding-top: 50px;
+    font-size: 30px;
+
+
+}
