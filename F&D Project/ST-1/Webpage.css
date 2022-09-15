@@ -34,8 +34,8 @@
 .Box{
     height: 60%;
     width: 150px;
-    margin: 10px;
-    padding-left: 30px;
+    /* margin: 10px; */
+    /* padding-left: 30px; */
 }
 #Box1{
     background-color: violet;

@@ -1,0 +1,80 @@
+body{
+    width: 100vw;
+    background-color:black;
+    background-size: cover;
+    height: 100vh;
+    flex-direction: row;
+    flex-wrap: wrap;
+    overflow-x: hidden;
+
+}
+#Head{
+    text-align: center;
+    overflow: initial;
+    margin-top: 55px;
+    font-size: 30px;
+    align-items: center;
+    color:red;
+}
+#Main{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+#Planets{
+    text-align: center;
+    font-size: 30px;
+    align-items: center;
+    color:aqua;
+
+}
+
+img{
+    height:300px;
+    width:400px;
+}
+
+
+
+
+#planets-grid{
+    align-items: center;
+    margin-right: 50px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.planets-line{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+h3{
+    text-align: center;
+    color: aliceblue;
+}
+
+#Last{
+    
+    margin-left: 55px;
+}
+#lineone{
+    text-align: center;
+    display: flex;
+}
+
+#linetwo{
+    text-align: center;
+    display: flex;
+}
+#linethree{
+    text-align: center;
+    display: flex;
+}
+
+.weights{
+    color: aliceblue;
+}
+
